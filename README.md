@@ -1,6 +1,7 @@
 # dddd
 
 
+$ echo "# dddd " > README.md
 
 $ git init
 Initialized empty Git repository in /private/tmp/dddd/.git/
